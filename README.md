@@ -2,6 +2,8 @@
 
 This example shows how to scrape Weibo posts in Node.js using the [Weibo Scraper](https://apify.com/piotrv1001/weibo-scraper) actor on Apify. No browser automation or HTML parsing required — just call the actor via the Apify API client and get structured data back.
 
+![Weibo Scraper results](./weibo_results.png)
+
 ## What this example does
 
 - Calls the Weibo Scraper actor with a configurable post limit
