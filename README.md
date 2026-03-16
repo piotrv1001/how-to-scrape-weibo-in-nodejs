@@ -107,6 +107,7 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each post o
 ## Related resources
 
 - [How to Scrape Weibo Posts and Profiles](https://www.falconscrape.com/blog/how-to-scrape-weibo-posts-and-profiles) — in-depth blog post covering Weibo scraping techniques and use cases
+- [How to Scrape Weibo Posts with Apify](https://www.youtube.com/watch?v=bCBLjb6hN9) — video tutorial on scraping Weibo posts using Apify
 
 ## License
 
